@@ -1,4 +1,7 @@
 ## PREDICTING CUSTOMER CHURN RATE FOR SYRIATEL TELCO:A MACHINE LEARNING APPROACH
+
+![Churn](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/assets/162470891/dae77bfa-e17c-4c77-aba8-f11ca42e7915)
+
 ### BUSINESS UNDERSTANDING
 #### Overview
 SyriaTel is the leading communications company in the region and most customers are happy with its services.
