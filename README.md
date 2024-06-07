@@ -2,6 +2,8 @@
 
 Link to presentation is [here](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/blob/master/Presentation.pdf)
 
+AUTHOR:BERYL AGAI
+
 ![Churn](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/assets/162470891/dae77bfa-e17c-4c77-aba8-f11ca42e7915)
 
 ### BUSINESS UNDERSTANDING
@@ -94,7 +96,7 @@ The perfomance metrics evaluated were:
 
 The models  performed well  in this descending  order(from best to least performer):
 
- - XGBoost
+ - XGBoost:
 
  - Random Tree Clasifier
 
