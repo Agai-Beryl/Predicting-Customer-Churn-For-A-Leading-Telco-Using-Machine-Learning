@@ -66,6 +66,10 @@ Churners have higher day-time usage and charges.
 
 Churn customers mostly have zero voice mail messages, while their counter parts have more.
 
+![Churn vs area](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/assets/162470891/f3015517-6d99-43bb-911e-b27f67080988)
+![Churn vs customer service calls](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/assets/162470891/b2435bc1-081f-4969-a0a1-cc07cd41287b)
+
+
 ### MODELING
 
 We scaled  the data,split it into 80-20 train test split and fixed class imbalance using SMOTE.
@@ -97,6 +101,8 @@ The models  performed well  in this descending  order(from best to least perform
  - KNN Classifier
 
  - Logistic Regression Classifier
+
+   ![XGBoost](https://github.com/Agai-Beryl/Predicting-Customer-Churn-For-A-Leading-Telco-Using-Machine-Learning/assets/162470891/47dae8ea-93fa-40e3-a069-ce4ed1ad3e3d)
 
 ### OBSERVATIONS
 
